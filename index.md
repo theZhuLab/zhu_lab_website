@@ -2,10 +2,10 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# CELLULAR AND MOLECULAR BIOMECHANICS LAB
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+Our lab focuses on mechanobiology at the cellular and molecular level, with special interest on single molecular adhesion.
+
 
 {%
   include link.html
@@ -31,16 +31,16 @@ Spend less time reinventing the wheel, and more time running your lab.
 
 {% include section.html %}
 
-# Highlights
+# WHAT WE DO
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Mechanical forces on immunoreceptors emerge during migration or adhesion to cells or the ECM, and during formation of the immunological synapse. Forces exerted on specific immunoreceptor–ligand bonds potentially induce mechanotransduction. Lymphocytes use force to amplify antigen discrimination and respond to changes in substrate stiffness.
+
 
 {%
   include link.html
   link="research"
-  text="See what we've published"
+  text="See our publications"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -51,13 +51,13 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="T cell Mechanobiology"
   text=text
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Mechanical stimuli are crucial in platelet activation in flowing blood. How platelets interpret mechanical forces along with biochemical stimuli is unclear. We have so far identified intracellular components that regulate platelet behavior in disturbed flow, which is predominantly mediated by integrins that exhibit distinct affinity and conformation. 
+
 
 {%
   include link.html
@@ -73,13 +73,14 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include feature.html
   image="images/photo.jpg"
   link="resources"
-  title="Our Resources"
+  title="Platelet Mechanobiology"
   flip=true
   text=text
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Antibody class-switch in germinal-center B cells requires signaling induced by the interaction of the B cell CD40 receptor with its ligand, CD40L (CD154), presented on CD4+ T helper cells. Rare mutations to the CD40L protein affecting its expression, binding, or function, lead to dysregulation of B cell signaling and their inability to undergo antibody class-switch. We investigate the dys-mechanoregulation of CD40–CD40L interactions by (X-linked hyper IgM)X-HIgM mutations and their effects on B cell signaling.
+
 
 {%
   include link.html
@@ -95,7 +96,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="B cell mechanobiology"
   text=text
 %}
 
