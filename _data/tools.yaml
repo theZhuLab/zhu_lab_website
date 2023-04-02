@@ -1,38 +1,38 @@
-- title: Cool Dataset
+- title: Biomembrane Force Probe (BFP)
   subtitle: a subtitle
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Utilizing a RBC as a force transducer, BFP measures single molecule interactions with ~1 pN resolution. BFP allows us to mesure receptor-ligand kinetics in the presence of force, and was instrumental in the discovery of Catch-bonds.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Package
+- title: Molecular Tension Probes (MTP)
   subtitle: a subtitle
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: DNA-based MTPs allow us to probe the pico-Newton forces that cells endogenously apply on their membrane receptors that govern adhesion and antigen recognition. These hairpin probes unfold upon application of force and emit a fluorescent signal.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Tutorial
+- title: Micropipett Adhesion Frequency
   group: more
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Measures in situ 2D binding kinetics, which has more biological relevance and better correlates with function compared to 3D affinity techniques
   repo: greenelab/lab-website-template
   tags:
     - resource
     - publication
 
-- title: Cool Web App
+- title: Parallel Magnetic Force Activation (PMFA) assay
   group: more
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: PMFA allows stimulation of cells with ligand-functionalized beads under magnetic force in a multi-well format using a magnetic well-plate lid. After stimulation, cells signaling can be analyzed by flow cytometry.
   repo: greenelab/lab-website-template
   tags:
     - software
