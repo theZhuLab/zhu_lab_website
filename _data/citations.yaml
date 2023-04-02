@@ -17,7 +17,7 @@
   - Yonggang Ke
   - Cheng Zhu
   publisher: Nature Communications
-  date: ''
+  date: '2022-11-17'
   link: https://doi.org/gr24tc
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-34587-w/MediaObjects/41467_2022_34587_Fig4_HTML.png?as=webp
   extra-links:
@@ -25,27 +25,7 @@
     link: https://doi.org/10.1038/s41467-022-34587-w
   tags:
   - Immuno-mechanobiology
-  _cache: b49f909f7f6fc9057804936aa93cbb15bdc058acf2b93086f904f8e887c83f6d
-- id: doi:10.1038/s41467-022-34587-w
-  title: Cooperative binding of T cell receptor and CD4 to peptide-MHC enhances antigen
-    sensitivity
-  authors:
-  - Muaz Nik Rushdi
-  - Victor Pan
-  - Kaitao Li
-  - Hyun-Kyu Choi
-  - Stefano Travaglino
-  - Jinsung Hong
-  - Fletcher Griffitts
-  - Pragati Agnihotri
-  - Roy A. Mariuzza
-  - Yonggang Ke
-  - Cheng Zhu
-  publisher: Nature Communications
-  date: '2022-11-17'
-  link: https://doi.org/gr24tc
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-34587-w/MediaObjects/41467_2022_34587_Fig4_HTML.png?as=webp
-  _cache: 37189b637964743ee07f241110fa5e7cf86479648aff074551d3ec2ca5f6c27f
+  _cache: c6324a5a95d369e8e8d374c834079bc6521bad94b6bb20ed56f9dbe6279d03d9
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
