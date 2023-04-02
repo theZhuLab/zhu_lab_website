@@ -19,7 +19,7 @@
     - resource
 
 - title: Micropipette Adhesion Frequency
-  group: more
+  group: featured
   image: images/photo.jpg
   link: https://github.com/
   description: Measures in situ 2D binding kinetics, which has more biological relevance and better correlates with function compared to 3D affinity techniques
@@ -29,7 +29,7 @@
     - publication
 
 - title: Parallel Magnetic Force Activation (PMFA) assay
-  group: more
+  group: featured
   image: images/photo.jpg
   link: https://github.com/
   description: PMFA allows stimulation of cells with ligand-functionalized beads under magnetic force in a multi-well format using a magnetic well-plate lid. After stimulation, cells signaling can be analyzed by flow cytometry.
