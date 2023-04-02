@@ -21,11 +21,11 @@
   link: https://doi.org/gr24tc
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-34587-w/MediaObjects/41467_2022_34587_Fig4_HTML.png?as=webp
   extra-links:
-  - type: manubot
+  - type: source
     link: https://doi.org/10.1038/s41467-022-34587-w
   tags:
   - Immuno-mechanobiology
-  _cache: f4a0c5fae1680bcbc63a9af2bacb0a6af537dc17b82bd59da18e1540a8ae6928
+  _cache: b49f909f7f6fc9057804936aa93cbb15bdc058acf2b93086f904f8e887c83f6d
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
