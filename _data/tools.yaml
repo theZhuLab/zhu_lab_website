@@ -1,7 +1,7 @@
 - title: Biomembrane Force Probe (BFP)
   subtitle: a subtitle
   group: featured
-  image: images/photo.jpg
+  image: images/BFP.png
   link: https://github.com/
   description: Utilizing a RBC as a force transducer, BFP measures single molecule interactions with ~1 pN resolution. BFP allows us to mesure receptor-ligand kinetics in the presence of force, and was instrumental in the discovery of Catch-bonds.
   repo: greenelab/lab-website-template
@@ -11,7 +11,7 @@
 - title: Molecular Tension Probes (MTP)
   subtitle: a subtitle
   group: featured
-  image: images/photo.jpg
+  image: images/MTP.jpg
   link: https://github.com/
   description: DNA-based MTPs allow us to probe the pico-Newton forces that cells endogenously apply on their membrane receptors that govern adhesion and antigen recognition. These hairpin probes unfold upon application of force and emit a fluorescent signal.
   repo: greenelab/lab-website-template
@@ -20,7 +20,7 @@
 
 - title: Micropipette Adhesion Frequency
   group: featured
-  image: images/photo.jpg
+  image: images/MAF.png
   link: https://github.com/
   description: Measures in situ 2D binding kinetics, which has more biological relevance and better correlates with function compared to 3D affinity techniques
   repo: greenelab/lab-website-template
@@ -37,11 +37,11 @@
   tags:
     - software
 
-- title: Cool Web Server
+- title: Horizontal Atomic Force Microscope (HAFM)
   group: more
-  image: images/photo.jpg
+  image: images/HAFM.png
   link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: AFM on which the cantilever works horizontally. HAFM can measure receptor-ligand binding kinetics under force between two live cells
   repo: greenelab/lab-website-template
   tags:
     - software
