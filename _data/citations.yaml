@@ -1,6 +1,31 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1038/s41467-022-34587-w
+  title: Cooperative binding of T cell receptor and CD4 to peptide-MHC enhances antigen
+    sensitivity
+  authors:
+  - Muaz Nik Rushdi
+  - Victor Pan
+  - Kaitao Li
+  - Hyun-Kyu Choi
+  - Stefano Travaglino
+  - Jinsung Hong
+  - Fletcher Griffitts
+  - Pragati Agnihotri
+  - Roy A. Mariuzza
+  - Yonggang Ke
+  - Cheng Zhu
+  publisher: Nature Communications
+  date: ''
+  link: https://doi.org/gr24tc
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-34587-w/MediaObjects/41467_2022_34587_Fig4_HTML.png?as=webp
+  extra-links:
+  - type: manubot
+    link: https://doi.org/10.1038/s41467-022-34587-w
+  tags:
+  - Immuno-mechanobiology
+  _cache: f24d858d912ad720889006a553e9bff6403673ba5d5f70c6c3e3957c6c897114
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
