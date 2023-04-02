@@ -36,6 +36,16 @@
   repo: greenelab/lab-website-template
   tags:
     - software
+    
+- title: Steered Molecular Dynamics Simulations (SMD)
+  subtitle: a subtitle
+  group: featured
+  image: images/SMD.png
+  link: https://github.com/
+  description: Molecular dynamics simulations under force allow us to simulate protein interactions to probe which protein residues are regulated by force. SMD can help us pin-point the residues involved in catch-bond interactions.
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
 
 - title: Horizontal Atomic Force Microscope (HAFM)
   group: more
