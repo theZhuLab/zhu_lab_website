@@ -12,7 +12,7 @@ Our lab focuses on mechanobiology at the cellular and molecular level, with spec
   type="link"
   icon=""
   text="See our research"
-  link="zhu_lab_website/research"
+  link="https://thezhulab.github.io/zhu_lab_website/research/"
   style="button"
 %}
 {%
