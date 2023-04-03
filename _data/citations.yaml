@@ -26,6 +26,28 @@
   tags:
   - Immuno-mechanobiology
   _cache: c6324a5a95d369e8e8d374c834079bc6521bad94b6bb20ed56f9dbe6279d03d9
+- id: https://doi.org/10.1063/5.0130805
+  title: "Memory in repetitive protein\u2013protein interaction series"
+  authors:
+  - Aaron M. Rosado
+  - Yan Zhang
+  - Hyun-Kyu Choi
+  - Yunfeng Chen
+  - Samuel M. Ehrlich
+  - Fengzhi Jin
+  - Arash Grakoui
+  - Brian D. Evavold
+  - Cheng Zhu
+  publisher: APL Bioengineering
+  date: '2023-03-01'
+  link: https://aip.scitation.org/doi/10.1063/5.0130805
+  image: https://aip.scitation.org/na101/home/literatum/publisher/aip/journals/content/apb/2023/apb.2023.7.issue-1/5.0130805/20230106/images/small/5.0130805.figures.online.f2.gif
+  extra-links:
+  - type: source
+    link: https://doi.org/10.1063/5.0130805
+  tags:
+  - Immuno-mechanobiology
+  _cache: 105d9705b7925d3c5e2c78e5cd36d18b757a39a7cc98663b1c058ba71ff96ca2
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
