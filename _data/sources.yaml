@@ -6,6 +6,16 @@
   tags:
     - Immuno-mechanobiology
 
+- id: https://doi.org/10.1063/5.0130805
+  image: https://aip.scitation.org/na101/home/literatum/publisher/aip/journals/content/apb/2023/apb.2023.7.issue-1/5.0130805/20230106/images/small/5.0130805.figures.online.f2.gif
+  extra-links:
+    - type: source
+      link: https://doi.org/10.1063/5.0130805
+  tags:
+    - Immuno-mechanobiology
+
+
+
 - id: doi:10.1016/j.csbj.2020.05.017
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
   date: 2020-6-2
