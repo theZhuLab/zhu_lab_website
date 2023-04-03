@@ -20,7 +20,7 @@ Our lab focuses on mechanobiology at the cellular and molecular level, with spec
   type="google-scholar"
   icon=""
   text="Google Scholar"
-  link="https://scholar.google.com/citations?user=_tPv2wEAAAAJ&hl=en"
+  link="https://scholar.google.com/citations?user=_tPv2wEAAAAJ&hl=en&oi=ao"
   style="button"
 %}
 {:.center}
