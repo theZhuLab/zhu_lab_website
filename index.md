@@ -9,18 +9,18 @@ Our lab focuses on mechanobiology at the cellular and molecular level, with spec
 
 {%
   include link.html
-  type="github"
+  type="link"
   icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
+  text="See our research"
+  link="zhu_lab_website/research"
   style="button"
 %}
 {%
   include link.html
-  type="docs"
+  type="google-scholar"
   icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
+  text="Google Scholar"
+  link="https://scholar.google.com/citations?user=_tPv2wEAAAAJ&hl=en"
   style="button"
 %}
 {:.center}
