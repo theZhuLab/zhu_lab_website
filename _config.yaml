@@ -10,12 +10,10 @@ baseurl: /zhu_lab_website
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: cheng.zhu@bme.gatech.edu
+  google-scholar: Cheng Zhu
+  github: theZhuLab
+  twitter: chengzhulab
 
 ### advanced settings
 
