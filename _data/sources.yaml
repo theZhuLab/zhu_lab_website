@@ -14,7 +14,29 @@
   tags:
     - Immuno-mechanobiology
 
+- id: https://doi.org/10.1080/09537104.2022.2071852
+  image: https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/iplt20/2022/iplt20.v033.i06/09537104.2022.2071852/20230216/images/large/iplt_a_2071852_f0001_b.jpeg
+  extra-links:
+    - type: source
+      link: https://doi.org/10.1080/09537104.2022.2071852
+  tags:
+    - Platelet mechanobiology
+ 
+- id: https://doi.org/10.1101/2023.01.09.523308
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/01/09/2023.01.09.523308/F2.large.jpg?width=800&height=600&carousel=1
+  extra-links: 
+    - type: preprint
+      link: https://doi.org/10.7287/peerj.preprints.3100v1
+  tags:
+    - Platelet mechanobiology
 
+- id: https://doi.org/10.1101/2022.01.17.476694
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/12/24/2022.01.17.476694/F2.large.jpg?width=800&height=600&carousel=1
+  extra-links: 
+    - type: preprint
+      link: https://doi.org/10.1101/2022.01.17.476694
+  tags:
+    - Immuno-mechanobiology
 
 - id: doi:10.1016/j.csbj.2020.05.017
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
