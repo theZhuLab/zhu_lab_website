@@ -11,7 +11,7 @@
 - title: Molecular Tension Probes (MTP)
   subtitle: a subtitle
   group: featured
-  image: images/MTP.jpg
+  image: images/MTP.png
   link: https://github.com/
   description: DNA-based MTPs allow us to probe the pico-Newton forces that cells endogenously apply on their membrane receptors that govern adhesion and antigen recognition. These hairpin probes unfold upon application of force and emit a fluorescent signal.
   repo: greenelab/lab-website-template
