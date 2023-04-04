@@ -48,6 +48,68 @@
   tags:
   - Immuno-mechanobiology
   _cache: 105d9705b7925d3c5e2c78e5cd36d18b757a39a7cc98663b1c058ba71ff96ca2
+- id: https://doi.org/10.1080/09537104.2022.2071852
+  title: Signaling mechanisms of the platelet glycoprotein Ib-IX complex
+  authors:
+  - Yaping Zhang
+  - Samuel M Ehrlich
+  - Cheng Zhu
+  - Xiaoping Du
+  publisher: Platelets
+  date: '2022-08-18'
+  link: https://doi.org/10.1080/09537104.2022.2071852
+  image: https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/iplt20/2022/iplt20.v033.i06/09537104.2022.2071852/20230216/images/large/iplt_a_2071852_f0001_b.jpeg
+  extra-links:
+  - type: source
+    link: https://doi.org/10.1080/09537104.2022.2071852
+  tags:
+  - Platelet mechanobiology
+  _cache: 88842696ca1394b50e903d2f38dec1b4b9bb09ad57089b204348f8812ef3ee89
+- id: https://doi.org/10.1101/2023.01.09.523308
+  title: "Force-regulated spontaneous conformational changes of integrins \u03B15\u03B2\
+    1 and \u03B1V\u03B23"
+  authors:
+  - Yunfeng Chen
+  - Fang Kong
+  - Zhenhai Li
+  - Lining Arnold Ju
+  - Cheng Zhu
+  publisher: bioRxiv
+  date: '2023-01-09'
+  link: https://www.biorxiv.org/content/10.1101/2023.01.09.523308v1
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/01/09/2023.01.09.523308/F2.large.jpg?width=800&height=600&carousel=1
+  extra-links:
+  - type: preprint
+    link: https://doi.org/10.7287/peerj.preprints.3100v1
+  tags:
+  - Platelet mechanobiology
+  _cache: fd855623d5da64befc610f572893a85812922a62ea9d3c76598f61eb14c65178
+- id: https://doi.org/10.1101/2022.01.17.476694
+  title: Catch bond models may explain how force amplifies TCR signaling and antigen
+    discrimination
+  authors:
+  - Hyun-Kyu Choi
+  - Peiwen Cong
+  - Chenghao Ge
+  - Aswin Natarajan
+  - Baoyu Liu
+  - Yong Zhang
+  - Kaitao Li
+  - Muaz Nik Rushdi
+  - Wei Chen
+  - Jizhong Lou
+  - Michelle Krogsgaard
+  - Cheng Zhu
+  publisher: bioRxiv
+  date: '2022-12-24'
+  link: https://www.biorxiv.org/content/10.1101/2022.01.17.476694v4
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/12/24/2022.01.17.476694/F2.large.jpg?width=800&height=600&carousel=1
+  extra-links:
+  - type: preprint
+    link: https://doi.org/10.1101/2022.01.17.476694
+  tags:
+  - Immuno-mechanobiology
+  _cache: 80b31024a355c83d82f55bbf0ac4da80b410ab852b0e0e85c88796c52db0e8b2
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
