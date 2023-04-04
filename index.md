@@ -4,13 +4,13 @@ title: Home
 
 # CELLULAR AND MOLECULAR BIOMECHANICS LAB
 
-Our lab focuses on mechanobiology at the cellular and molecular level, with special interest on single molecular adhesion.
+Our lab focuses on mechanobiology at the cellular and molecular level, with special interest in single molecular adhesion.
 
 
 {%
   include link.html
   type="link"
-  icon=""
+  icon="fas fa-book"
   text="See our research"
   link="https://thezhulab.github.io/zhu_lab_website/research/"
   style="button"
