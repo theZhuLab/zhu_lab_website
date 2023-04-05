@@ -49,7 +49,7 @@ Mechanical forces on immunoreceptors emerge during migration or adhesion to cell
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/tcell.png"
   link="research"
   title="T cell Mechanobiology"
   text=text
@@ -71,7 +71,7 @@ Mechanical stimuli are crucial in platelet activation in flowing blood. How plat
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/platelet.png"
   link="resources"
   title="Platelet Mechanobiology"
   flip=true
