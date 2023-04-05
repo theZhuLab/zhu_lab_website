@@ -94,7 +94,7 @@ Antibody class-switch in germinal-center B cells requires signaling induced by t
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/bcell.png"
   link="team"
   title="B cell mechanobiology"
   text=text
