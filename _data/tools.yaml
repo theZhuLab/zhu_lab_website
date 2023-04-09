@@ -46,6 +46,15 @@
   repo: greenelab/lab-website-template
   tags:
     - resource
+- title: Multi-zone microfluidic flow chamber
+  subtitle: a subtitle
+  group: featured
+  image: images/Flow_chamber.png
+  link: https://github.com/
+  description: These microfluidic chambers are coated with multiple proteins in different zones, allowing cells that are flowing in the chamber to encounter multiple ligands sequentially and with spatio-temporal control.
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
 
 - title: Horizontal Atomic Force Microscope (HAFM)
   group: more
