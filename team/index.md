@@ -21,12 +21,6 @@ We are a team of passionate and diverse biomedical, mechanical engineers, biophy
   include list.html
   data="members"
   component="portrait"
-  filters="role: lab manager"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
   filters="role: postdoc"
 %}
 {%
@@ -34,6 +28,12 @@ We are a team of passionate and diverse biomedical, mechanical engineers, biophy
   data="members"
   component="portrait"
   filters="role: phd"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: lab manager"
 %}
 {%
   include list.html
