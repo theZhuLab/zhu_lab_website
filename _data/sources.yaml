@@ -46,21 +46,21 @@
 #   tags:
 #     - Immuno-mechanobiology
   
-# -id: https://doi.org/10.1101/2022.04.14.488403
-#   image: https://www.biorxiv.org/content/biorxiv/early/2022/04/15/2022.04.14.488403/F1.large.jpg?width=800&height=600&carousel=1
-#   extra-links:
-#     - type: preprint
-#       link: https://doi.org/10.1101/2022.04.14.488403
-#   tags:
-#     - Immuno-mechanobiology
+-id: https://doi.org/10.1101/2022.04.14.488403
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/04/15/2022.04.14.488403/F1.large.jpg?width=800&height=600&carousel=1
+  extra-links:
+    - type: preprint
+      link: https://doi.org/10.1101/2022.04.14.488403
+  tags:
+    - Immuno-mechanobiology
 
-# -id: https://doi.org/10.1038/s41590-019-0491-1
-#   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41590-019-0491-1/MediaObjects/41590_2019_491_Fig2_HTML.png?as=webp
-#   extra-links:
-#     - type: source
-#       link: https://doi.org/10.1038/s41590-019-0491-1
-#   tags:
-#     - Immuno-mechanobiology
+-id: https://doi.org/10.1038/s41590-019-0491-1
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41590-019-0491-1/MediaObjects/41590_2019_491_Fig2_HTML.png?as=webp
+  extra-links:
+    - type: source
+      link: https://doi.org/10.1038/s41590-019-0491-1
+  tags:
+    - Immuno-mechanobiology
 
 # - id: https://doi.org/10.1038/s41563-019-0323-6
 #   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41563-019-0323-6/MediaObjects/41563_2019_323_Fig1_HTML.png?as=webp
