@@ -38,10 +38,11 @@
   tags:
     - Immuno-mechanobiology
 
--id: https://doi.org/10.1074/jbc.M116.763888
-  image: https://www.jbc.org/cms/attachment/ab393306-716e-4624-ba1d-43f3764c4c1b/gr1.jpg
+- id: doi:10.1016/j.csbj.2020.05.017
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  date: 2020-6-2
   extra-links:
-    - type: source
-      link: https://doi.org/10.1074/jbc.M116.763888
+    - type: manubot
+      link: https://greenelab.github.io/knowledge-graph-review/
   tags:
-    - Immuno-mechanobiology
+    - knowledge graphs
