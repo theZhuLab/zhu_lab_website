@@ -10,6 +10,4 @@ links:
   twitter: nan
 ---
 
-Felix is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+Amir received his B.Sc. in Mechanical Engineering with a math minor from Sharif University, Iran. He is interested in studying receptor-mediated mechanosensing by platelets and endothelial cells.
