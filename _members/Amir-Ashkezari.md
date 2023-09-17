@@ -1,6 +1,6 @@
 ---
 name: Amir H. K. Ashkezari
-image: images/Ashkezari.jpg
+image: images/Ashkezari.png
 description: PhD Student
 role: phd
 group: alum
