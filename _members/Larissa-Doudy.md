@@ -1,6 +1,6 @@
 ---
 name: Larissa O. Doudy
-image: images/Doudy.jpg
+image: images/larissa.png
 description: Lab Manager
 role: lab manager
 links:
@@ -9,6 +9,4 @@ links:
   twitter: nan
 ---
 
-Felix is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+
