@@ -1,6 +1,6 @@
 ---
 name: Cara T. Motz
-image: images/Motz.jpg
+image: images/Motz.png
 description: PhD Student
 role: phd
 group: alum
