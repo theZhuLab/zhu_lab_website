@@ -1,6 +1,6 @@
 ---
 name: Jintian Lyu
-image: images/tim.png
+image: images/Tim.png
 description: PhD Student
 role: phd
 links:
