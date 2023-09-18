@@ -1,6 +1,6 @@
 ---
 name: Peiwen Cong
-image: images/Cong.jpg
+image: images/cong.png
 description: Post-doctoral Researcher
 role: postdoc
 group: alum
