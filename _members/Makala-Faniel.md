@@ -9,6 +9,4 @@ links:
   twitter: nan
 ---
 
-Felix is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+Makala has been graduated from UPenn Materials Science and Engineering program. As a PhD studeint at Cellular ans Molecular Biomechanics Laboratory, she studies biophysical properties of therapeutic molecules.
