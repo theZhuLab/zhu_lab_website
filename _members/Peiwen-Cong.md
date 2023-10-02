@@ -10,6 +10,4 @@ links:
   twitter: nan
 ---
 
-Felix is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+Dr. Cong research interests extend across computational modelling and biophysical measurements of T-cell receptors and related co-receptors.
