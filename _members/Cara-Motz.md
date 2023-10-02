@@ -10,6 +10,4 @@ links:
   twitter: nan
 ---
 
-Felix is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+Cara has been graduated from Emory University Nueroscience undergraduate program. She studies neuro-mechanobiology of Neurexin-Cerebellin-Glutamate receptor adhesion complex.
