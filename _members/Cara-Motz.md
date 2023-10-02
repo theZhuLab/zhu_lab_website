@@ -10,4 +10,4 @@ links:
   twitter: nan
 ---
 
-Cara has been graduated from Emory University Nueroscience undergraduate program. She studies neuro-mechanobiology of Neurexin-Cerebellin-Glutamate receptor adhesion complex.
+Cara graduated from Emory University Nueroscience undergraduate program. She studies neuro-mechanobiology of Neurexin-Cerebellin-Glutamate delta receptor adhesion complex.
