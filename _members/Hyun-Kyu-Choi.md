@@ -10,6 +10,4 @@ links:
   twitter: nan
 ---
 
-Felix is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+Dr. Choi is interested in the biophysics behind activation of immunoreceptors, notably T-cell receptor (TCR), B-cell receptor (BCR), and CD40.
