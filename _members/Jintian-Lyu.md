@@ -9,6 +9,4 @@ links:
   twitter: nan
 ---
 
-Felix is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+Tim has a B.Sc. degree in pharmaceutical Sciences from Peking University Health Science Center. He is mainly interested in molecular probes that measure single-molecular force levels in vivo and in vitro.
