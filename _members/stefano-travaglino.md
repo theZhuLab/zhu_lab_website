@@ -9,6 +9,4 @@ links:
   twitter: vaglino
 ---
 
-Felix is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+Stefano received his B.Sc. degree in Biomedical Engineering from Georgia Tech. His main interest lies in mechanoimmunology of receptors governing activation of T-cells and B-cells.
