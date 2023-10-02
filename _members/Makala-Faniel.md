@@ -9,4 +9,4 @@ links:
   twitter: nan
 ---
 
-Makala has been graduated from UPenn Materials Science and Engineering program. As a PhD studeint at Cellular ans Molecular Biomechanics Laboratory, she studies biophysical properties of therapeutic molecules.
+Makala has been graduated from UPenn Materials Science and Engineering program. As a PhD student at Cellular and Molecular Biomechanics Laboratory, she studies biophysical properties of therapeutic molecules.
