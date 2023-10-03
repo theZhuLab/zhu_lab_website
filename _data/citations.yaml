@@ -1,31 +1,68 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1038/s41467-022-34587-w
-  title: Cooperative binding of T cell receptor and CD4 to peptide-MHC enhances antigen
-    sensitivity
+- id: https://doi.org/10.1101/2023.08.13.553152
+  title: Mechanical force regulates ligand binding and function of PD-1
   authors:
-  - Muaz Nik Rushdi
-  - Victor Pan
   - Kaitao Li
+  - Paul Cardenas-Lizana
+  - Anna V. Kellner
+  - Zhou Yuan
+  - Eunseon Ahn
+  - Jintian Lyu
+  - Zhenhai Li
+  - Khalid Salaita
+  - Rafi Ahmed
+  - Cheng Zhu
+  publisher: bioRxiv
+  date: '2023-08-15'
+  link: https://www.biorxiv.org/content/10.1101/2023.08.13.553152v1
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/08/15/2023.08.13.553152/F1.large.jpg?width=800&height=600&carousel=1
+  extra-links:
+  - type: preprint
+    link: https://doi.org/10.1101/2023.08.13.553152
+  tags:
+  - Immuno-mechanobiology
+  _cache: eef94aae80d34f38e1332c90f9adc5706c2c2201a107e132f4ce57e644f80261
+- id: https://doi.org/10.1038/s41467-023-38267-1
+  title: Catch bond models may explain how force amplifies TCR signaling and antigen
+    discrimination
+  authors:
   - Hyun-Kyu Choi
-  - Stefano Travaglino
-  - Jinsung Hong
-  - Fletcher Griffitts
-  - Pragati Agnihotri
-  - Roy A. Mariuzza
-  - Yonggang Ke
+  - Peiwen Cong
+  - Chenghao Ge
+  - Aswin Natarajan
+  - Baoyu Liu
+  - Yong Zhang
+  - Kaitao Li
+  - Muaz Nik Rushdi
+  - Wei Chen
+  - Jizhong Lou
+  - Michelle Krogsgaard
   - Cheng Zhu
   publisher: Nature Communications
-  date: '2022-11-17'
-  link: https://doi.org/gr24tc
+  date: '2023-05-05'
+  link: https://www.nature.com/articles/s41467-023-38267-1
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-38267-1/MediaObjects/41467_2023_38267_Fig5_HTML.png?as=webp
+  extra-links:
+  - type: source
+    link: https://doi.org/10.1038/s41467-023-38267-1
+  tags:
+  - Immuno-mechanobiology
+  _cache: 6b6bbbfa9bb6060f6d01c68b5c12c0fe5ea6efb3325bde296e00aea0ec57b18c
+- id: https://doi:10.1038/s41467-022-34587-w
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi:10.1038/s41467-022-34587-w
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-34587-w/MediaObjects/41467_2022_34587_Fig4_HTML.png?as=webp
   extra-links:
   - type: source
     link: https://doi.org/10.1038/s41467-022-34587-w
   tags:
   - Immuno-mechanobiology
-  _cache: c6324a5a95d369e8e8d374c834079bc6521bad94b6bb20ed56f9dbe6279d03d9
+  _cache: 9133bf72968a4e0a52f6eabc25b6afa12e2e63f2729f7113c7e2b8a4cd6502e8
 - id: https://doi.org/10.1063/5.0130805
   title: "Memory in repetitive protein\u2013protein interaction series"
   authors:
@@ -110,18 +147,26 @@
   tags:
   - Immuno-mechanobiology
   _cache: 80b31024a355c83d82f55bbf0ac4da80b410ab852b0e0e85c88796c52db0e8b2
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: https://doi.org/10.1101/2022.04.14.488403
+  title: "Cooperative ectodomain interaction among TCR\u03B1\u03B2, CD3\u03B3\u03B5\
+    , and CD3\u03B4\u03B5 enhances TCR mechanotransduction"
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
+  - Zhou Yuan
+  - Peiwen Cong
+  - Aswin Natarajan
+  - Chenghao Ge
+  - Stefano Travaglino
+  - Saikiran Beesam
+  - Danielle Grazette
+  - Michelle Krogsgaard
+  - Cheng Zhu
+  publisher: bioRxiv
+  date: '2022-04-15'
+  link: https://www.biorxiv.org/content/10.1101/2022.04.14.488403v1
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
   extra-links:
   - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
+    link: https://doi.org/10.1101/2022.04.14.488403
   tags:
-  - knowledge graphs
-  _cache: 2b8aa76c98be2f26481ab15dc135eb446fa9ef6f94af175c9639d1a45d538cf4
+  - Immuno-mechanobiology
+  _cache: a00cec7d9940921b0a963e61169098605f6858dcbd5ea7237fced6e29901244f
