@@ -48,6 +48,31 @@
   tags:
   - Immuno-mechanobiology
   _cache: eef94aae80d34f38e1332c90f9adc5706c2c2201a107e132f4ce57e644f80261
+- id: https://doi.org/10.1038/s41467-022-34587-w
+  title: Cooperative binding of T cell receptor and CD4 to peptide-MHC enhances antigen
+    sensitivity
+  authors:
+  - Muaz Nik Rushdi
+  - Victor Pan
+  - Kaitao Li
+  - Hyun-Kyu Choi
+  - Stefano Travaglino
+  - Jinsung Hong
+  - Fletcher Griffitts
+  - Pragati Agnihotri
+  - Roy A. Mariuzza
+  - Yonggang Ke
+  - Cheng Zhu
+  publisher: Nature Communications
+  date: '2022-11-17'
+  link: https://www.nature.com/articles/s41467-022-34587-w
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-34587-w/MediaObjects/41467_2022_34587_Fig4_HTML.png?as=webp
+  extra-links:
+  - type: source
+    link: https://doi.org/10.1038/s41467-022-34587-w
+  tags:
+  - Immuno-mechanobiology
+  _cache: 3e8184915c9190b2314377bf638101d5c276c0f384fbe70913821fbc08cc58e6
 - id: https://doi.org/10.1038/s41467-023-38267-1
   title: Catch bond models may explain how force amplifies TCR signaling and antigen
     discrimination
@@ -74,41 +99,19 @@
   tags:
   - Immuno-mechanobiology
   _cache: 6b6bbbfa9bb6060f6d01c68b5c12c0fe5ea6efb3325bde296e00aea0ec57b18c
-- id: https://doi:10.1038/s41467-022-34587-w
+- id: https://doi.org/10.1063/5.0130805
   title: ''
   authors: []
   publisher: ''
   date: ''
-  link: https://doi:10.1038/s41467-022-34587-w
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-34587-w/MediaObjects/41467_2022_34587_Fig4_HTML.png?as=webp
-  extra-links:
-  - type: source
-    link: https://doi.org/10.1038/s41467-022-34587-w
-  tags:
-  - Immuno-mechanobiology
-  _cache: 9133bf72968a4e0a52f6eabc25b6afa12e2e63f2729f7113c7e2b8a4cd6502e8
-- id: https://doi.org/10.1063/5.0130805
-  title: "Memory in repetitive protein\u2013protein interaction series"
-  authors:
-  - Aaron M. Rosado
-  - Yan Zhang
-  - Hyun-Kyu Choi
-  - Yunfeng Chen
-  - Samuel M. Ehrlich
-  - Fengzhi Jin
-  - Arash Grakoui
-  - Brian D. Evavold
-  - Cheng Zhu
-  publisher: APL Bioengineering
-  date: '2023-03-01'
-  link: https://aip.scitation.org/doi/10.1063/5.0130805
-  image: https://aip.scitation.org/na101/home/literatum/publisher/aip/journals/content/apb/2023/apb.2023.7.issue-1/5.0130805/20230106/images/small/5.0130805.figures.online.f2.gif
+  link: https://doi.org/10.1063/5.0130805
+  image: https://aipp.silverchair-cdn.com/aipp/content_public/journal/apb/7/1/10.1063_5.0130805/1/m_016102_1_f5.jpeg?Expires=1698830460&Signature=PEbOqOM4Oe3lKIuN20O7f6rfNt16B22ggESbbQaM5kf9dZ3gBvat6ekBr0JRETucqtaAh~W2JD6~ZZ81EmD3Q0f5BMbHZE0wL0q6jvLntD0jShD9hudSxLIs5KLXDX8PxjtNKKFD1C9UvQs8THmkjuoWlufv~mhfzzVXMR04Bv-qlSKtGgW2sEN1C6mVlxCBResRCXQNv~5pPLhrHfbLdX4d9eaxBW5RVc-Dcr3~z~sXFW8gjn6bBNL01Ty72XLQlrp1OwTBR-I-QzFqh~m0vFI3p4h1YNxZ5KQXI5MBibC4r1RD3CO6fbU12Qrztl28eEOge6vkKCBQoPLuv5YWlA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   extra-links:
   - type: source
     link: https://doi.org/10.1063/5.0130805
   tags:
   - Immuno-mechanobiology
-  _cache: 105d9705b7925d3c5e2c78e5cd36d18b757a39a7cc98663b1c058ba71ff96ca2
+  _cache: 8cce28df5b01b3e2cf9af569b5e84529b4e400d84a4b45349f4fc96674569ac4
 - id: https://doi.org/10.1080/09537104.2022.2071852
   title: Signaling mechanisms of the platelet glycoprotein Ib-IX complex
   authors:
