@@ -1,4 +1,11 @@
-
+- id: https://doi.org/10.1101/2023.08.13.553152
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/08/15/2023.08.13.553152/F1.large.jpg?width=800&height=600&carousel=1
+  extra-links: 
+    - type: preprint
+      link: https://doi.org/10.1101/2023.08.13.553152
+  tags:
+    - Immuno-mechanobiology
+    
 - id: https://doi.org/10.1038/s41467-023-38267-1
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-38267-1/MediaObjects/41467_2023_38267_Fig5_HTML.png?as=webp
   extra-links: 
