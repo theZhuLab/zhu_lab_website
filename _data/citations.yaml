@@ -1,6 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: https://doi.org/10.1101/2023.07.23.550231
+  title: Mechanotransduction governs CD40 function and underlies X-linked Hyper IgM
+    syndrome
+  authors:
+  - Hyun-Kyu Choi
+  - Stefano Travaglino
+  - "Matthias M\xFCnchhalfen"
+  - "Richard G\xF6rg"
+  - Zhe Zhong
+  - Jintian Lyu
+  - David M. Reyes-Aguilar
+  - "J\xFCrgen Wienands"
+  - Ankur Singh
+  - Cheng Zhu
+  publisher: bioRxiv
+  date: '2023-07-25'
+  link: https://www.biorxiv.org/content/10.1101/2023.07.23.550231v1
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/07/25/2023.07.23.550231/F4.large.jpg?width=800&height=600&carousel=1
+  extra-links:
+  - type: preprint
+    link: https://doi.org/10.1101/2023.07.23.550231
+  tags:
+  - Immuno-mechanobiology
+  _cache: 647026614357f5cf3118c4c3b1ea547b1dffd1f14c5d6d70d782114a82efe98a
 - id: https://doi.org/10.1101/2023.08.13.553152
   title: Mechanical force regulates ligand binding and function of PD-1
   authors:
@@ -163,10 +187,10 @@
   publisher: bioRxiv
   date: '2022-04-15'
   link: https://www.biorxiv.org/content/10.1101/2022.04.14.488403v1
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/04/15/2022.04.14.488403/F1.large.jpg?width=800&height=600&carousel=1
   extra-links:
   - type: manubot
     link: https://doi.org/10.1101/2022.04.14.488403
   tags:
   - Immuno-mechanobiology
-  _cache: a00cec7d9940921b0a963e61169098605f6858dcbd5ea7237fced6e29901244f
+  _cache: ec71147a8de2f535886210ddf5b4414ad666f582839219152f9c4126d7cfc43d
