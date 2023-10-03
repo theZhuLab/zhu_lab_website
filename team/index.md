@@ -45,8 +45,7 @@ We are a team of passionate and diverse biomedical, mechanical engineers, biophy
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are actively seeking new lab members to join us in this endeavor!
 
 {% include section.html %}
 <!--
