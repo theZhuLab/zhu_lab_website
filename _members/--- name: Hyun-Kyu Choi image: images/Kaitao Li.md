@@ -10,4 +10,4 @@ links:
   twitter: nan
 ---
 
-Dr. Kaitao Li is interested in mechanobiology of immunoreceptors (including TCR, PD-1, etc.) as well as FRET-based imaging of kinase and phosphatase activities. He is at Shennon Biotechnologies as principal scientist.
+Dr. Kaitao Li is interested in mechanobiology of immunoreceptors (including TCR and PD-1) as well as FRET-based imaging of kinase and phosphatase activities. He is at Shennon Biotechnologies as principal scientist.
