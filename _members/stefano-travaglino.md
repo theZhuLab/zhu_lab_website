@@ -1,6 +1,6 @@
 ---
 name: Stefano Travaglino
-image: images/Travaglino.jpg
+image: images/Stefano.png
 description: PhD Student
 role: phd
 links:
