@@ -1,7 +1,7 @@
 ---
 name: Hyun-Kyu Choi
 image: images/Choi.jpg
-description: alumni
+description: Post-doctoral Researcher (alumni)
 role: alumni
 group: alum
 links:
