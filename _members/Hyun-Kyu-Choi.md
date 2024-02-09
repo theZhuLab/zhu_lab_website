@@ -2,7 +2,7 @@
 name: Hyun-Kyu Choi
 image: images/Choi.jpg
 description: Post-doctoral Researcher
-role: postdoc
+role: alumni
 group: alum
 links:
   home-page: felixcited.com
