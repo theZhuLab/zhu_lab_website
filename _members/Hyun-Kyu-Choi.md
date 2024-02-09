@@ -1,7 +1,7 @@
 ---
 name: Hyun-Kyu Choi
 image: images/Choi.jpg
-description: Post-doctoral Researcher
+description: alumni
 role: alumni
 group: alum
 links:
@@ -10,4 +10,4 @@ links:
   twitter: nan
 ---
 
-Dr. Choi is interested in the biophysics behind activation of immunoreceptors, notably T-cell receptor (TCR), B-cell receptor (BCR), and CD40.
+Dr. Choi is interested in the biophysics behind activation of immunoreceptors, notably T-cell receptor (TCR), B-cell receptor (BCR), and CD40. He currently holds an assistant professor position in Yonsei University.
