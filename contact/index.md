@@ -13,7 +13,7 @@ Cellular and Molecular Biomechanics Lab is a part of Biomedical Engineering Depa
   include link.html
   type="email"
   icon=""
-  text="cheng.zhu@bme.ghatech.edu"
+  text="cheng.zhu@bme.gatech.edu"
   tooltip=""
   link="cheng.zhu@bme.gatech.edu"
   style="button"
