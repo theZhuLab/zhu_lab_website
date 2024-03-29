@@ -7,15 +7,15 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Cellular and Molecular Biomechanics Lab is a part of Biomedical Engineering Department at Georgia Tech. Please get in touch with Larissa for inquiries.
+Cellular and Molecular Biomechanics Lab is a part of Biomedical Engineering Department at Georgia Tech. Please get in touch with Dr. Zhu for inquiries.
 
 {%
   include link.html
   type="email"
   icon=""
-  text="larissa.doudy@bme.gatech.edu"
+  text="cheng.zhu@bme.ghatech.edu"
   tooltip=""
-  link="larissa.doudy@bme.gatech.edu"
+  link="cheng.zhu@bme.gatech.edu"
   style="button"
 %}
 <!-- {%
