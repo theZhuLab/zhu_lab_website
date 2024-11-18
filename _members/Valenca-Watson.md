@@ -1,6 +1,6 @@
 ---
 name: Valencia E Watson
-image: images/Watson.jpeg
+image: images/Watson.png
 description: PhD Student
 role: phd
 group: alum
