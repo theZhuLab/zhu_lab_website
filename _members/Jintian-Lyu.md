@@ -1,8 +1,9 @@
 ---
 name: Jintian Lyu
 image: images/Tim.png
-description: PhD Student
-role: phd
+description: Alumnus
+role: alumni
+group: alum
 links:
   home-page: felixcited.com
   email: lvjintian1234@gatech.edu
