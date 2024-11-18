@@ -1,6 +1,6 @@
 ---
 name: Menglan Li
-image: images/Li.png
+image: images/menglan-li.jpeg
 description: Post-doctoral Researcher
 role: postdoc
 group: alum
