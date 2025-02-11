@@ -21,4 +21,4 @@ We have developed and use various tools to probe the machanobiology of cells, wi
 
 ## More
 
-{% include list.html component="card" data="tools" filters="group: more" style="small" %}
+##{% include list.html component="card" data="tools" filters="group: more" style="small" %}
