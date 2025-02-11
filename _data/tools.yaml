@@ -9,58 +9,58 @@
     
 
 - title: Molecular Tension Probes (MTP)
-  subtitle: a subtitle
+  subtitle: 
   group: featured
   image: images/MTP.png
-  link: https://github.com/
+  link: 
   description: DNA-based MTPs allow us to probe the pico-Newton forces that cells endogenously apply on their membrane receptors that govern adhesion and antigen recognition. These hairpin probes unfold upon application of force and emit a fluorescent signal.
-  repo: greenelab/lab-website-template
+  repo: 
   tags:
-    - resource
+    - 
 
 - title: Micropipette Adhesion Frequency
   group: featured
   image: images/MAF.png
-  link: https://github.com/
+  link: 
   description: Measures in situ 2D binding kinetics, which has more biological relevance and better correlates with function compared to 3D affinity techniques
-  repo: greenelab/lab-website-template
+  repo: 
   tags:
-    - resource
-    - publication
+    
 
 - title: Parallel Magnetic Force Activation (PMFA) assay
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
+  link: 
   description: PMFA allows stimulation of cells with ligand-functionalized beads under magnetic force in a multi-well format using a magnetic well-plate lid. After stimulation, cells signaling can be analyzed by flow cytometry.
-  repo: greenelab/lab-website-template
+  repo: 
   tags:
-    - software
+    
     
 - title: Steered Molecular Dynamics Simulations (SMD)
-  subtitle: a subtitle
+  subtitle: 
   group: featured
   image: images/SMD.png
-  link: https://github.com/
+  link: 
   description: Molecular dynamics simulations under force allow us to simulate protein interactions to probe which protein residues are regulated by force. SMD can help us pin-point the residues involved in catch-bond interactions.
-  repo: greenelab/lab-website-template
+  repo: 
   tags:
-    - resource
+
+  
 - title: Multi-zone microfluidic flow chamber
-  subtitle: a subtitle
+  subtitle: 
   group: featured
   image: images/Flow_chamber.png
-  link: https://github.com/
+  link: 
   description: These microfluidic chambers are coated with multiple proteins in different zones, allowing cells that are flowing in the chamber to encounter multiple ligands sequentially and with spatio-temporal control.
-  repo: greenelab/lab-website-template
+  repo: 
   tags:
-    - resource
+    
 
 - title: Horizontal Atomic Force Microscope (HAFM)
-  group: more
+  group: featured
   image: images/HAFM.png
-  link: https://github.com/
+  link: 
   description: AFM on which the cantilever works horizontally. HAFM can measure receptor-ligand binding kinetics under force between two live cells
   repo: greenelab/lab-website-template
   tags:
-    - software
+    
