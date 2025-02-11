@@ -61,6 +61,6 @@
   image: images/HAFM.png
   link: 
   description: AFM on which the cantilever works horizontally. HAFM can measure receptor-ligand binding kinetics under force between two live cells
-  repo: greenelab/lab-website-template
+  repo: 
   tags:
     
