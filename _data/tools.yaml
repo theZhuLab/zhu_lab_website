@@ -2,11 +2,11 @@
   subtitle: 
   group: featured
   image: images/BFP.png
-  link: https://github.com/
+  link: 
   description: Utilizing a RBC as a force transducer, BFP measures single molecule interactions with ~1 pN resolution. BFP allows us to mesure receptor-ligand kinetics in the presence of force, and was instrumental in the discovery of Catch-bonds.
-  repo: greenelab/lab-website-template
+  repo:
   tags:
-    - resource
+    
 
 - title: Molecular Tension Probes (MTP)
   subtitle: a subtitle
