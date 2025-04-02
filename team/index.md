@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-We are a team of passionate and diverse biomedical, mechanical engineers, biophysicists and more with the goal to understand underlying mechanisms of mechanotransduction. We are actively seeking new lab members to join us in this endeavor!
+We are a team of passionate and diverse biomedical, mechanical engineers, biophysicists and more with the goal to understand underlying mechanisms of mechanotransduction. 
 
 {% include section.html %}
 
@@ -45,7 +45,7 @@ We are a team of passionate and diverse biomedical, mechanical engineers, biophy
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-We are actively seeking new lab members to join us in this endeavor!
+
 
 {% include section.html %}
 <!--
